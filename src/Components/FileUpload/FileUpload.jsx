@@ -99,7 +99,7 @@ const FileUpload = ({
           <span>
             {Object.keys(files).length > 0
               ? "Mint"
-              : `Upload ${otherProps.multiple ? "files" : "a file"}`}
+              : `Upload ${otherProps.multiple ? "files" : "a file"} to mint`}
           </span>
         </UploadFileBtn>
         <FormField
