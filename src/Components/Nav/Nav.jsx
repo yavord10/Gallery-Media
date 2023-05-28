@@ -22,7 +22,7 @@ const Nav = () => {
             href="https://mindai-main.vercel.app/"
             className={styles["nav-link"]}
           >
-            Home
+            Main website
           </a>
         </li>
         <li className={styles["nav-item"]}>
@@ -42,18 +42,11 @@ const Nav = () => {
           </a>
         </li>
         <li className={styles["nav-item"]}>
-          <a href="" className={styles["nav-link"]}>
-            Artists
-          </a>
-        </li>
-        <li className={`${styles["nav-item"]} ${styles["d-none-1100"]}`}>
-          <a href="" className={styles["nav-link"]}>
-            Explore
-          </a>
-        </li>
-        <li className={`${styles["nav-item"]} ${styles["d-none-1100"]}`}>
-          <a href="" className={styles["nav-link"]}>
-            Blog
+          <a
+            href="https://mindai-music.gitbook.io/mindai-music-3/"
+            className={styles["nav-link"]}
+          >
+            Litepaper
           </a>
         </li>
       </ul>
