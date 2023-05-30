@@ -18,16 +18,13 @@ const Nav = () => {
       />
       <ul className={`flex align-items-center ${styles["navbar-nav"]}`}>
         <li className={`${styles["nav-item"]} ${styles.active}`}>
-          <a
-            href="https://mindai-main.vercel.app/"
-            className={styles["nav-link"]}
-          >
+          <a href="https://mindaimusic.com" className={styles["nav-link"]}>
             Main website
           </a>
         </li>
         <li className={styles["nav-item"]}>
           <a
-            href="https://mindaiapp.netlify.app/"
+            href="https://presale.mindaimusic.com"
             className={styles["nav-link"]}
           >
             Presale
@@ -35,7 +32,7 @@ const Nav = () => {
         </li>
         <li className={styles["nav-item"]}>
           <a
-            href="https://famous-zabaione-503ef4.netlify.app/"
+            href="https://stake.mindaimusic.com"
             className={styles["nav-link"]}
           >
             Staking
