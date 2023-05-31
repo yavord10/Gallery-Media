@@ -19,7 +19,7 @@ const Nav = () => {
       <ul className={`flex align-items-center ${styles["navbar-nav"]}`}>
         <li className={`${styles["nav-item"]} ${styles.active}`}>
           <a href="https://mindaimusic.com" className={styles["nav-link"]}>
-            Main website
+            Main site
           </a>
         </li>
         <li className={styles["nav-item"]}>
@@ -40,7 +40,7 @@ const Nav = () => {
         </li>
         <li className={styles["nav-item"]}>
           <a
-            href="https://mindai-music.gitbook.io/mindai-music-3/"
+            href="https://litepaper.mindaimusic.com"
             className={styles["nav-link"]}
           >
             Litepaper
@@ -48,7 +48,7 @@ const Nav = () => {
         </li>
       </ul>
       <div className={`flex ${styles["navbar-buttons"]}`}>
-        <a href="https://mindai-main.vercel.app/">
+        <a href="https://mindaimusic.com">
           <Button theme="transparent">MindAI 3.0</Button>
         </a>
         <Button theme="matrix">Mint</Button>

@@ -29,24 +29,6 @@
         }
       },
       {
-        "id": "wallpaper 4",
-        "src": "img/wallpapers/4.jpg",
-        "user": {
-          "src": "img/profile/4.jpg",
-          "name": "James",
-          "job": "Artist"
-        }
-      },
-      {
-        "id": "wallpaper 5",
-        "src": "img/wallpapers/5.jpg",
-        "user": {
-          "src": "img/profile/5.jpg",
-          "name": "Mary",
-          "job": "Developer"
-        }
-      },
-      {
         "id": "wallpaper 6",
         "src": "img/wallpapers/6.jpg",
         "user": {
@@ -174,24 +156,6 @@
           "src": "img/profile/1.jpg",
           "name": "Anne",
           "job": "Producer"
-        }
-      },
-      {
-        "id": "wallpaper 3",
-        "src": "img/wallpapers/4.jpg",
-        "user": {
-          "src": "img/profile/4.jpg",
-          "name": "James",
-          "job": "Artist"
-        }
-      },
-      {
-        "id": "wallpaper 4",
-        "src": "img/wallpapers/5.jpg",
-        "user": {
-          "src": "img/profile/5.jpg",
-          "name": "Mary",
-          "job": "Developer"
         }
       },
       {
